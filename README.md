@@ -1,2 +1,2 @@
-# advent-of-code
-Advent of code challenges
+# chocolate-charts
+Day 14 of Advent of Code challenge
